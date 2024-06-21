@@ -1,16 +1,7 @@
-# The Hypothesis of Universal Matter
+# Pyuthon Code
 
-Folders include papers for:
-<ul>
-<li>The Hypothesis of Universal Matter Paper</li>
-  <ul><li>Folder is Hypothesis-of-Universal-Matter</li></ul>
-<li>The Structure of Elements According the Hypothesis</li>
-  <ul><li>Folder is StructureOfElements</li></ul>
-<li>Coded Example for Hypothesis Particle Sizing and Mass</li>
-  <ul>
-  <li>Folder OnParticleSize. Contains Python code for report build</li>
-  <li>Folder Misc. Contains miscellaneous Python code</li>
-  </ul>
-<li>The Hypothesis of Particle Movement Within the Field of {f}</li>
-  <ul><li>Folder is Hypothesis-of-Particle-Movement</li></ul>
-</ul>
+This program code builds a report for the sizes and massess of particles identified in the Hypothesis.
+
+In Visual Studio Code, open and run the project from the file main.py.
+
+The following libraries are required to run  project (aside from common Python libraies):
