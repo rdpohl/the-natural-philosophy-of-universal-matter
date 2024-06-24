@@ -4,4 +4,10 @@ This program code builds a report for the sizes and massess of particles identif
 
 In Visual Studio Code, open and run the project from the file main.py.
 
-The following libraries are required to run  project (aside from common Python libraies):
+The following Python libraries are required to run the project:
+<ul>
+  <li>math</li>
+  <li>pathlib
+  <li>random</li>
+  <li>sys</li>
+</ul>
