@@ -1,8 +1,8 @@
-# Pyuthon Code
+# Python Code
 
 This program code builds a report for the sizes and massess of particles identified in the Hypothesis.
 
-In Visual Studio Code, open and run the project from the file main.py.
+In Visual Studio Code, open, and run the project from the file main.py.
 
 The following Python libraries are required to run the project:
 <ul>
@@ -11,3 +11,9 @@ The following Python libraries are required to run the project:
   <li>random</li>
   <li>sys</li>
 </ul>
+
+The program can alos be run from the command line as such:
+'''
+python3 main.py
+'''
+You may need to chnage the execution permissions for the file main.py. 
