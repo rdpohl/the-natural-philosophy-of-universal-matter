@@ -8,3 +8,5 @@ Note: When Opening the Excel spreadsheet AtomicStructure.xlsx in LibreOffice Cal
 Warning loading document AtomicStructure.xlsx:
 The data could not be loaded completely because the maximum number of columns per sheet was exceeded.
 '''
+
+Press the "Ok" button to proceed: There will not be any lost data in the sheet. 
