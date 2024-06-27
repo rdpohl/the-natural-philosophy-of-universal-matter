@@ -54,17 +54,17 @@ Level II CP In Level I Units             count by size 1.484e+05          count 
   
 Calculated Size and Mass
 Series Join - Example Size and Mass of Two Level 1 Paricles X and Y
-     Level I Particle X                           size 3.973e-29                   mass 6.590e-56
-     Level I Particle Y                           size 4.034e-29                   mass 5.974e-56
+     Level I Particle X                           size 3.950e-29                   mass 6.380e-56
+     Level I Particle Y                           size 3.796e-29                   mass 6.032e-56
   
 Quantitative Join - Example Size and Mass of Two Level 1 Particles X and Y
-     Level I Particle X                           size 4.254e-29                   mass 7.495e-56
-     Level I Particle Y                           size 4.833e-29                   mass 7.397e-56
+     Level I Particle X                           size 3.317e-29                   mass 5.358e-56
+     Level I Particle Y                           size 3.886e-29                   mass 5.230e-56
   
-Total Level II Series Prtcl at 40% split       by size 4.754e-24                by mass 1.491e-42
-Total Level II Quant. Prtcl at 60% split       by size 8.092e-24                by mass 2.652e-42
+Total Level II Series Prtcl at 40% split       by size 4.599e-24                by mass 1.473e-42
+Total Level II Quant. Prtcl at 60% split       by size 6.414e-24                by mass 1.885e-42
                                                        ---------                        ---------
-Total Level II                                 by size 1.285e-23                by mass 4.143e-42
+Total Level II                                 by size 1.101e-23                by mass 3.358e-42
   
 Itemized Details
 Count {f} in Level II:                                 1.855e+17                       1.659e+54
@@ -74,7 +74,7 @@ Count {f} in Level II:                                 1.855e+17                
 Level III Composite Particle Summary of Size and Mass
 Projections of Size and Mass
 Level III CP in Level II Units                    size 1.672e-22                   mass 1.116e-39
-Level III CP In Level II Units           count by size 1.301e+01          count by mass 2.693e+02
+Level III CP In Level II Units           count by size 1.518e+01          count by mass 3.322e+02
   
 Calculated Size and Mass
 Total Level III Effective Conductor            by size 3.343e-22                by mass 2.232e-39
@@ -83,7 +83,7 @@ Total Level III Ineffective Conductor          by size 1.755e-22                
 Total Level III                        Average by size 5.098e-22                by mass 3.403e-39
   
 Itemized Details
-Count {f} in Level III:                                2.414e+18                       4.469e+56
+Count {f} in Level III:                                2.816e+18                       5.513e+56
 -------------------------------------------------------------------------------------------------
   
   
@@ -102,7 +102,7 @@ Prime CP                                          size 7.545e-19                
 Prime CP                                 count by size 4.094e+03          count by mass 9.524e-01
   
 Itemized Details
-Count {f} in Prime:                                    1.507e+22                       6.491e+56
+Count {f} in Prime:                                    1.758e+22                       8.006e+56
 -------------------------------------------------------------------------------------------------
   
   
@@ -115,13 +115,13 @@ Prime Effective                                   size 1.437e-18                
 Prime Tally                                            3.629e-18                        5.635e-39
   
 Conducted Level 1                                 size 4.050e-20                   mass 6.301e-47
-Conducted Level 2                                 size 1.285e-17                   mass 4.143e-36
-Conducted Between 3 Primes                        size 2.577e-17                   mass 8.285e-36
+Conducted Level 2                                 size 1.101e-17                   mass 3.358e-36
+Conducted Between 3 Primes                        size 2.211e-17                   mass 6.717e-36
 Electron (Lvl 3 Eff)                              size 3.343e-22                   mass 2.232e-39
                                                        ---------                        ---------
-Additions to Tally                                     3.866e-17                        1.243e-35
+Additions to Tally                                     3.316e-17                        1.008e-35
   
                                                        ---------                        ---------
-Grand Tally                                       size 4.229e-17                   mass 1.244e-35
+Grand Tally                                       size 3.679e-17                   mass 1.009e-35
   
 -------------------------------------------------------------------------------------------------

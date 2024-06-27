@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 Title:    On the Particle Sizing and Masses of Universal Matter Objects
 Author:   Richard D. Pohl
