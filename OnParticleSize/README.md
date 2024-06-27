@@ -13,7 +13,9 @@ The following Python libraries are required to run the project:
 </ul>
 
 The program can alos be run from the command line as such:
-'''
-python3 main.py
-'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 You may need to chnage the execution permissions for the file main.py. 
