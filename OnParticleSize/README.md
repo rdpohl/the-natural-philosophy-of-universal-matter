@@ -14,8 +14,9 @@ The following Python libraries are required to run the project:
 
 The program can alos be run from the command line as such:
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+python3 main.py
 ```
-You may need to chnage the execution permissions for the file main.py. 
+You made need to change the permissions on main.py if the report file is not updated. Copy this code and paste it onto the command line and then re-execute the program.
+```
+chmod +x main.py
+```
