@@ -1,6 +1,6 @@
 # The Hypothesis of Universal Matter
 
-The same-named PDF contains the hypothesis.
+The PDF file "The Hypothesis of Universal Matter" contains the central hypothesis for this project.
 
 Folders include papers for:
 <ul>
