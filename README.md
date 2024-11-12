@@ -1,7 +1,7 @@
-# The Hypothesis of Universal Matter
+# The Natural Philosophy of Universal Matter
 
-The PDF file "Hypothesis of Universal Matter" contains the central hypothesis for this project. There is a companion presentation for this hypothesis found in the folder "OnParticleSize". The folder provides Python code that, when run, produces a report used to gauge sizing for the various elements in the hypothesis. The sections of the report can be run in corelation to the hypothesis.
+The PDF file "The Natual Philosophy of Universal Matter" contains the central philosophy for this project. There is a companion presentation for this philosophy found in the folder "On-Particle-Size". The folder provides Python code that, when run, produces a report used to gauge sizing for the various elements in the philosophy. The sections of the report can be run in corelation to the philosophy.
 
-A second PDF file, "Hypothesis of Particle Movement" extends the central hypothesis adding further insight into the Field of {f}.
+A second PDF file, "On Particle Movement" extends the central philosophy adding further insight into the Field of {f}.
 
-An additional sub-folder provide additional insight into the central hypothesis. The sub-folder "Structure-of-Elements" carries on from the central hypothesis and its build of a hydrogen atom, to show how all of the other elements in the Periodic Table are constructed. Note: This sus-folder has it's own README.
+An additional sub-folder provide additional insight into the central philosophy. The sub-folder "Structure-of-Elements" carries on from the central philosophy and its building of a hydrogen atom, to show how all of the other elements in the Periodic Table are constructed. Note: This sus-folder has it's own README.
